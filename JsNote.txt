@@ -1,0 +1,5 @@
+What is javascript ?
+--
+
+javascript is hight level language to interactivity to web pages and create dynamic web applications..
+
