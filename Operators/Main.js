@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed 
+
 // Assigment Operator
 
 let name =  "abdi";

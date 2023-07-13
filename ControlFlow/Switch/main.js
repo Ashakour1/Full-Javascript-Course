@@ -1,4 +1,6 @@
-const  Fruits = 'hh';
+//  Author : A.shakour mohammed 
+
+const  Fruits = 'Apple';
 
 switch(Fruits){
     case "Mangoes":

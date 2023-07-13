@@ -1,4 +1,4 @@
-
+//  Author : A.shakour mohammed 
 
 function counter () {
     setTimeout (() =>{

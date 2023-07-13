@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed 
+
 let keyboard = document.querySelector("#keyb")
 let clone = document.querySelector("#clone")
 

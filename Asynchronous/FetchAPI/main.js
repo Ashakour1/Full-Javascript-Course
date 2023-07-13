@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed 
+
 // FETCHING API IN  EASY
 
 fetch('https://jsonplaceholder.typicode.com/posts')

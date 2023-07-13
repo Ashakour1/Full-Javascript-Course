@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed 
+
 // when you declare variables we use three ways
 
 // var let and const 

@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed 
+
 let grade = 70;
 
 if(grade > 80){

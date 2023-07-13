@@ -1,4 +1,4 @@
-
+//  Author : A.shakour mohammed 
 // clicked event
 let button = document.querySelector("button");
 

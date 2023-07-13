@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed 
+
 // function definition / function declaration
 function square(num){
     return num + num ;

@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed 
+
 const getPosts = (resources) =>{
     let request = new XMLHttpRequest();
 

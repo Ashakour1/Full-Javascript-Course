@@ -1,3 +1,5 @@
+//  Author : A.shakour mohammed v
+
 // selecting dom
 
 /*
@@ -52,5 +54,5 @@ error.style.background = "Blue";
 
 
 let pragraph = document.querySelector("p")
-pragraph.style.color = "Black";
+pragraph.style.color = "white";
 
