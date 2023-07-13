@@ -1,3 +1,4 @@
+//  Author : A.shakour mohammed 
 let fruits = ["Banana","Mangoes","Apple"];
 // adding last
 fruits.push("heloo man")
